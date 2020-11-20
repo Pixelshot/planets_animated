@@ -1,4 +1,4 @@
-## Things to do:
+## Things to do
 
 - Make it responsive
 - Provide social media links
